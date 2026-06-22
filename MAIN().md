@@ -1,0 +1,1 @@
+`main()` is like a starting line for the computer. without it, the computer would not know where to start.
